@@ -17,4 +17,26 @@ I am Fajri and I am a professional software developer with more than seven years
 - Planning and executing development plan that align with project’s features, budget, and timeline.
 - Building constructive communications with clients and business analyst.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### Multisoft Indonesia
+##### Indonesia - Backend Developer
+###### Sept 2017 - Nov 2017
+
+- Develop backend API for spin-off products for the company.
+
+### Educations
+
+#### [University of Twente](https://www.utwente.nl/en/)
+##### Netherlands - MSc in Business and IT
+###### Feb 2017 - Feb 2019
+
+#### [Gadjah Mada University](https://ugm.ac.id/en/)
+##### Indonesia - BSc in Computer Science
+###### Sept 2007 - Oct 2009
+
+### Skills
+- **Programming languages:** .NET, Java, Typescript (Angular), Javascript (AngularJS), ZKoss
+- **DBMS:** SQL Server and Oracle
+- **Cloud:** Azure
+- **Versioning:** TFS and GIT
+- **ETL:** SSIS and Pentaho
+- **BI and Reporting:** Tableau and SSRS
