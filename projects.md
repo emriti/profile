@@ -5,6 +5,6 @@ subtitle:
 ---
 
 ### Summary
-![Job Summary](/img/job_summary.png)
+![Job Summary](img/job_summary.png)
 
 ### Details
