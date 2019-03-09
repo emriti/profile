@@ -5,8 +5,6 @@ subtitle:
 ---
 
 ### Summary
-<p align="center">
-  <img src="/img/job_summary.png" />
-</p>
+![Job Summary](/img/job_summary.png)
 
 ### Details
