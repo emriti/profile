@@ -6,7 +6,7 @@ subtitle:
 
 I am Fajri and I am a professional software developer with more than seven years of experience in developing desktop and web-based software applications. Involved in planning, development, testing, and team management.
 
-### Experience
+### Experiences
 
 #### [eComindo](http://www.ecomindo.com/)
 ##### Indonesia - Lead Developer
@@ -51,7 +51,7 @@ I am Fajri and I am a professional software developer with more than seven years
 
 <br/>
 
-### Language
+### Languages
 - Indonesian (Native)
 - English (C1)
 - Dutch (A1)
