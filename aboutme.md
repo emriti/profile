@@ -17,11 +17,15 @@ I am Fajri and I am a professional software developer with more than seven years
 - Planning and executing development plan that align with project’s features, budget, and timeline.
 - Building constructive communications with clients and business analyst.
 
+<br/>
+
 #### Multisoft Indonesia
 ##### Indonesia - Backend Developer
 ###### Sept 2017 - Nov 2017
 
 - Develop backend API for spin-off products for the company.
+
+<br/>
 
 ### Educations
 
@@ -29,9 +33,13 @@ I am Fajri and I am a professional software developer with more than seven years
 ##### Netherlands - MSc in Business and IT
 ###### Feb 2017 - Feb 2019
 
+<br/>
+
 #### [Gadjah Mada University](https://ugm.ac.id/en/)
 ##### Indonesia - BSc in Computer Science
 ###### Sept 2007 - Oct 2009
+
+<br/>
 
 ### Skills
 - **Programming languages:** .NET, Java, Typescript (Angular), Javascript (AngularJS), ZKoss
@@ -41,10 +49,14 @@ I am Fajri and I am a professional software developer with more than seven years
 - **ETL:** SSIS and Pentaho
 - **BI and Reporting:** Tableau and SSRS
 
+<br/>
+
 ### Language
 - Indonesian (Native)
 - English (C1)
 - Dutch (A1)
+
+<br/>
 
 ### Certifications
 - **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: 11640987. Taken 2015.
