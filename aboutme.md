@@ -45,5 +45,5 @@ I am Fajri and I am a professional software developer with more than seven years
 - Dutch (A1)
 
 ### Certifications
-- **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: 11640987. Taken 2015.
+- **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: 11640987. Taken 2015. [Badge](https://www.youracclaim.com/badges/4b5f15d8-d3f4-4bbc-b6ae-b47f9d952def/linked_in_profile)
 - **IELTS** (C1)
