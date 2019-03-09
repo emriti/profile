@@ -40,3 +40,12 @@ I am Fajri and I am a professional software developer with more than seven years
 - **Versioning:** TFS and GIT
 - **ETL:** SSIS and Pentaho
 - **BI and Reporting:** Tableau and SSRS
+
+### Language
+- Indonesian (Native)
+- English (C1)
+- Dutch (A1)
+
+### Certifications
+- **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: 11640987. Taken 2015.
+- **IELTS** (C1)
