@@ -19,7 +19,7 @@ I am Fajri and I am a professional software developer with more than seven years
 #### [Multisoft Indonesia](http://multisoft-indonesia.com/)
 ##### Indonesia - Backend Developer
 ###### Sept 2017 - Nov 2017
-- Develop backend API for spin-off products for the company.
+- Develop backend API for spin-off products of the company.
 
 ### Educations
 
