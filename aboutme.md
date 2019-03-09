@@ -24,11 +24,11 @@ I am Fajri and I am a professional software developer with more than seven years
 ### Educations
 
 #### [University of Twente](https://www.utwente.nl/en/)
-##### Netherlands - MSc in Business and IT
+##### The Netherlands - MSc in Business and IT
 ###### Feb 2017 - Feb 2019
 
 #### [Gadjah Mada University](https://ugm.ac.id/en/)
-##### Indonesia - BSc in Computer Science
+##### Indonesia - BS in Computer Science
 ###### Sept 2007 - Oct 2009
 
 ### Skills
