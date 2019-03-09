@@ -8,9 +8,9 @@ I am Fajri and I am a professional software developer with more than seven years
 
 ### Experience
 
-[eComindo](http://www.ecomindo.com/)
-Indonesia - Lead Developer
-Jan 2010 - Jan 2017
+#### [eComindo](http://www.ecomindo.com/)
+##### Indonesia - Lead Developer
+###### Jan 2010 - Jan 2017
 
 - Develop desktop and web applications for the company’s clients, technology usage varied from .NET, Java, Angular, ZKoss, SQL Server, and Oracle depending on the projects’ nature and requirements.
 - Lead software development team to successfully develop applications.
