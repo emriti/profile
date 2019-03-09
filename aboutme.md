@@ -6,8 +6,6 @@ subtitle:
 
 I am Fajri and I am a professional software developer with more than seven years of experience in developing desktop and web-based software applications. Involved in planning, development, testing, and team management.
 
-
-
 ### Experiences
 
 #### [eComindo](http://www.ecomindo.com/)
@@ -23,8 +21,6 @@ I am Fajri and I am a professional software developer with more than seven years
 ###### Sept 2017 - Nov 2017
 - Develop backend API for spin-off products for the company.
 
-
-
 ### Educations
 
 #### [University of Twente](https://www.utwente.nl/en/)
@@ -35,8 +31,6 @@ I am Fajri and I am a professional software developer with more than seven years
 ##### Indonesia - BSc in Computer Science
 ###### Sept 2007 - Oct 2009
 
-
-
 ### Skills
 - **Programming languages:** .NET, Java, Typescript (Angular), Javascript (AngularJS), ZKoss
 - **DBMS:** SQL Server and Oracle
@@ -45,15 +39,11 @@ I am Fajri and I am a professional software developer with more than seven years
 - **ETL:** SSIS and Pentaho
 - **BI and Reporting:** Tableau and SSRS
 
-
-
 ### Languages
 - Indonesian (Native)
 - English (C1)
 - Dutch (A1)
 
-
-
 ### Certifications
-- **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: [11640987](https://www.youracclaim.com/badges/4b5f15d8-d3f4-4bbc-b6ae-b47f9d952def/linked_in_profile). Taken 2015.
+- **Microsoft Certified Professional** (461: Querying Microsoft SQL Server 2012/2014). ID: [11640987](https://www.youracclaim.com/badges/4b5f15d8-d3f4-4bbc-b6ae-b47f9d952def/linked_in_profile).
 - **IELTS** (C1)
