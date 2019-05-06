@@ -24,10 +24,20 @@ Portal Anggota Bursa is a system responsible to manage communication channels be
 ###### Nov 2013 - Apr 2014
 ARMS is a set of systems that responsible to accommodate: Collateral transactions, stock eligibility, Stock Analysis, and others. In this project, the ARMS need to be migrated from legacy systems to the state-of-the-art system at the time. In this project, Fajri successfully leads a team and develop a subset of the ARMS systems. This project executed using *ASP.NET MVC 3, Entity Framework 3, SharePoint 2010, SQL Server 2008R2*.
 
+#### [Bank Tabungan Pensiun Negara (BTPN)](https://www.btpn.com/)
+##### Revamp E-DAPEM
+###### May 2013-Oct 2013
+E-DAPEM (Electronic payment system) is a system that are used to generate pension payment data to BTPN’s branches and report the result to BTPN’s partners (PT. Taspen, PT. Asabri, and others). This project was to revamp the E-DAPEM system and had objective to improve pension payment service and to increase BTPN’s competitive advantages in the pension payment business domain in Indonesia. The system was built using ZK PE 6.5.3, Java 1.7.0, Apache Tomcat 7.0.40, Oracle 11g, Linux Red Hat 5.5. In this project, Fajri successfully leads a developer team to plan and develop the system.
+
 #### [Citibank Indonesia](https://www.citibank.co.id/portal/bahasa_home/index.htm)
 ##### Laporan Kantor Pusat Bank Umum (LKPBU)
 ###### Oct 2012 - Dec 2012
 LKPBU is a report management system that compiles and reports to the Indonesian Central Bank (BI) in monthly or quarterly. The system is web-based that connected to the BI using extranet network. The reporting system has objectives to standardise and to centralise nationwide bank report to the BI. In this project, Fajri leads a small team and develop partial features of the application. The application was built using *.NET Framework 4, SQL Server 2008 R2, IIS 7, Reporting Service 2008*.
+
+#### [Indonesian Stock Exchange (IDX)](https://www.idx.co.id/en-us/)
+##### Revamp Central Trade Processing
+###### Feb 2011 - Dec 2011
+Central trade processing is a system that handle trading in equities, derivatives, bond and sukuk. This project revamped the CTP applications using the latest technology and improve real-time data processing, this project also has objectives to improve user experience and improve quality service that IDX provides in trading transactions. The system was built using Adobe Flex, J2EE, Middleware: FDS (RTMP Management –  Real Time Messaging Protocol), Oracle 11g, Windows Server. In this project, Fajri acted as an application developer. 
 
 #### [Indonesian Ministry of Finance](https://www.kemenkeu.go.id/en)
 ##### SPM Controlling System
