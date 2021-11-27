@@ -9,6 +9,7 @@ subtitle:
 
 
 ### Details
+The projects below are Ecomindo’s clients’ projects that had been entrusted to Fajri as a software engineer or software architect. There are 24 projects in total during his tenure in Ecomindo, to reduce the resume pages thus we selected projects that can be used to showcase his expertise in software development.
 
 #### [Bina Nusantara University (Binus)](https://binus.ac.id/)
 ##### [Beelingua](img/projects/beelingua.png)
