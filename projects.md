@@ -7,28 +7,23 @@ subtitle:
 ### Summary
 ![Job Summary](img/job_summary.png)
 
-### Details
 
+### Details
 
 #### [Bina Nusantara University (Binus)](https://binus.ac.id/)
 ##### [Beelingua](img/projects/beelingua.png)
 ###### Nov 2021 - Present
-...
+BeeLingua is an application for learning new languages, this platform will be put as a sub-application of the Binus Maya Super Application (BM7). This application will be a pilot project of implementing microservices on the level of enterprise level in the client. This application will utilised other microservices that has already been built on BM7. In this project I try to create an ecosystems of applications and services, rather than developing silo application that only works on a specifics project, I try to reuse APIs of other services and create an ecosystem so that other applications could also use APIs in similar manner as this application. The applications is build using azure cloud based services, such as *azure function, cosmos db, event hubs, event grid, storage account, redis cache, azure media services, application insight, api management, azure AD, sendgrid.* with additionally, we incorporate machine learning capabilities by using *azure cognitive service and GCP cloud vision*, so that the learners could take speaking and writing tests. In this project, we also introduce super application ecosystems, so that in the future, if the clients wants to develop smaller application, they could just slot it into the super app (BM7). In this project Fajri acts as software architect, he is responsible for creating development procedures and frameworks that are used by ecomindo’s development teams. He is also responsible for research and creating proof of concept of technologies that are used in the projects. He is also responsible for enabling projects’ development teams.
 
 #### [Bina Nusantara University (Binus)](https://binus.ac.id/)
 ##### [BM7 Mobile](https://play.google.com/store/apps/details?id=id.ac.binus.maya) and [BM7 Web](https://newbinusmaya.binus.ac.id/login)
 ###### Dec 2019 - Dec 2021
-Binus Maya (BM) is a codename for the binus mobile application for learning management systems that are created regularly in Binus. In this project the Binus University required assistance from Ecomindo to revamp the BM application using current technologies and methodologies. There is also a requirement to transfer development knowledge and enablement of current Binus IT development teams so that they could develop applications using more modern technologies and methodologies. In this project we use cloud based services, such as azure function, cosmos db, event hubs, event grid, storage account, redis cache, azure media services, application insight, api management, azure AD, sendgrid. Moreover, we also use react-native and react-js for front end development. For development methodology we use scrum and devops. In this project Fajri acts as software architect, he is responsible for creating development procedures and frameworks that are used by ecomindo’s development teams. He is also responsible for research and creating proof of concept of technologies that are used in the projects. He is also responsible for enabling projects’ development teams.
+Binus Maya (BM) is a codename for the binus mobile application for learning management systems that are created regularly in Binus, the application has 50K+ active users. In this project the Binus University required assistance from Ecomindo to revamp the BM application using current technologies and methodologies. There is also a requirement to transfer development knowledge and enablement of current Binus IT development teams so that they could develop applications using more modern technologies and methodologies. In this project we use cloud based services, such as *azure function, cosmos db, event hubs, event grid, storage account, redis cache, azure media services, application insight, api management, azure AD, sendgrid*. Moreover, we also use react-native and react-js for front end development. For development methodology we use scrum and devops. In this project Fajri acts as software architect, he is responsible for creating development procedures and frameworks that are used by ecomindo’s development teams. He is also responsible for research and creating proof of concept of technologies that are used in the projects. He is also responsible for enabling projects’ development teams.
 
 #### [Prudential Indonesia](https://www.prudential.co.id/)
-##### [Pru Medical Network](img/projects/PMN.jpeg)
-###### Jan 2015 - Feb 2016
-...
-
-#### [Prudential Indonesia](https://www.prudential.co.id/)
-##### [PruFast](img/projects/PruFast.jpg)
-###### Jan 2015 - Feb 2016
-...
+##### [Pru Medical Network](img/projects/PMN.jpeg) and [PruFast](img/projects/PruFast.jpg)
+###### Apr 2019 - Nov 2019
+Fajri provide a consultancy service to Prudential Indonesia, especially when they want to build Pru Medical Network (PMN), application that wants to reduce claim processes of the convential 3rd party insurance provider. There also PruFast, an application that use to create insurance simulation of insurance agents of the Prudential.
 
 #### [Bank Tabungan Pensiun Negara (BTPN)](https://www.btpn.com/)
 ##### Bank Operasional 2
@@ -53,7 +48,7 @@ E-DAPEM (Electronic payment system) is a system that are used to generate pensio
 #### [Citibank Indonesia](https://www.citibank.co.id/portal/bahasa_home/index.htm)
 ##### Laporan Kantor Pusat Bank Umum (LKPBU)
 ###### Oct 2012 - Dec 2012
-LKPBU is a report management system that compiles and reports to the Indonesian Central Bank (BI) in monthly or quarterly. The system is web-based that connected to the BI using extranet network. The reporting system has objectives to standardise and to centralise nationwide bank report to the BI. In this project, Fajri leads a small team and develop partial features of the application. The application was built using *.NET Framework 4, SQL Server 2008 R2, IIS 7, Reporting Service 2008*.
+LKPBU is a report management system that compiles and reporting to the Indonesian Central Bank (BI) in monthly or quarterly. The system is web-based that connected to the BI using extranet network. The reporting system has objectives to standardise and to centralise nationwide bank report to the BI. In this project, Fajri leads a small team and develop partial features of the application. The application was built using *.NET Framework 4, SQL Server 2008 R2, IIS 7, Reporting Service 2008*.
 
 #### [Indonesian Stock Exchange (IDX)](https://www.idx.co.id/en-us/)
 ##### Revamp Central Trade Processing
