@@ -4,9 +4,21 @@ title: About Me
 subtitle: 
 ---
 
-I am Fajri and I am a professional software developer with more than seven years of experience in developing desktop and web-based software applications. Involved in planning, development, testing, and team management.
+I am Fajri and I am a professional software developer with more than ten years of experience in developing software applications. My passion is to help customers to transform its businesses, improve processes, generating value with ICT.
 
 ### Experiences
+
+#### [eComindo](http://www.ecomindo.com/)
+##### Indonesia - Solution Architect
+###### May 2019 - Present
+- Creating development procedures and frameworks that are used by ecomindo’s development teams. Which Include serverless and no-sql technologies, CI/CD, branching strategy, migration strategy, event-driven strategy.
+- Research and create proof of concept of technologies that are used in ecomindo’s projects.
+- Enabling ecomindo’s development teams, so that the teams could use cloud technologies or researched technology in ecomindo’s projects.
+
+#### [Multisoft Indonesia](http://multisoft-indonesia.com/)
+##### Indonesia - Backend Developer
+###### Sept 2017 - Nov 2017
+- Develop backend API for spin-off products of the company.
 
 #### [eComindo](http://www.ecomindo.com/)
 ##### Indonesia - Lead Developer
@@ -15,11 +27,6 @@ I am Fajri and I am a professional software developer with more than seven years
 - Lead software development team to successfully develop applications.
 - Planning and executing development plan that align with project’s features, budget, and timeline.
 - Building constructive communications with clients and business analyst.
-
-#### [Multisoft Indonesia](http://multisoft-indonesia.com/)
-##### Indonesia - Backend Developer
-###### Sept 2017 - Nov 2017
-- Develop backend API for spin-off products of the company.
 
 ### Educations
 
@@ -32,12 +39,14 @@ I am Fajri and I am a professional software developer with more than seven years
 ###### Sept 2007 - Oct 2009
 
 ### Skills
-- **Programming languages:** .NET, Java, Typescript (Angular), Javascript (AngularJS), ZKoss
-- **DBMS:** SQL Server and Oracle
-- **Cloud:** Azure
-- **Versioning:** TFS and GIT
-- **ETL:** SSIS and Pentaho
-- **BI and Reporting:** Tableau and SSRS
+- **Design Pattern:** Microservices, Event-driven architecture, Parallel programming
+- **Programming languages:** .NET, Java, Typescript, Javascript
+- **Database:** CosmosDB, SQL Server, Oracle, Redis
+- **Event Messaging:** Event Hub, Event Grid
+- **Serverless:** Azure Function
+- **Containerization:** Docker, Kubernetes
+- **Application monitoring:** Azure log analytics, Elastic APM
+- **Other:** Google Cloud Vision, Azure Cognitive Service, Terraform, CI/CD, GIT
 
 ### Languages
 - Indonesian (Native)
