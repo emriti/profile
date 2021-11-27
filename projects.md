@@ -45,7 +45,7 @@ ARMS is a set of systems that responsible to accommodate: Collateral transaction
 ###### May 2013-Oct 2013
 E-DAPEM (Electronic payment system) is a system that are used to generate pension payment data to BTPN’s branches and report the result to BTPN’s partners (PT. Taspen, PT. Asabri, and others). This project was to revamp the E-DAPEM system and had objective to improve pension payment service and to increase BTPN’s competitive advantages in the pension payment business domain in Indonesia. The system was built using ZK PE 6.5.3, Java 1.7.0, Apache Tomcat 7.0.40, Oracle 11g, Linux Red Hat 5.5. In this project, Fajri successfully leads a developer team to plan and develop the system.
 
-#### [Citibank Indonesia](https://www.citibank.co.id/portal/bahasa_home/index.htm)
+#### [Bank Tabungan Pensiun Negara (BTPN)](https://www.btpn.com/)
 ##### Laporan Kantor Pusat Bank Umum (LKPBU)
 ###### Oct 2012 - Dec 2012
 LKPBU is a report management system that compiles and reporting to the Indonesian Central Bank (BI) in monthly or quarterly. The system is web-based that connected to the BI using extranet network. The reporting system has objectives to standardise and to centralise nationwide bank report to the BI. In this project, Fajri leads a small team and develop partial features of the application. The application was built using *.NET Framework 4, SQL Server 2008 R2, IIS 7, Reporting Service 2008*.
